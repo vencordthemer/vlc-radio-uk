@@ -1,0 +1,94 @@
+#EXTM3U
+
+#EXTINF:-1,BBC Radio 1
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=128000
+
+#EXTINF:-1,BBC Radio 1Xtra
+https://lsn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=128000
+
+#EXTINF:-1,BBC Radio 2
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=128000
+
+#EXTINF:-1,BBC Radio 3
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=128000
+
+#EXTINF:-1,BBC Radio 4
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=128000
+
+#EXTINF:-1,BBC Radio 5 Live
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=128000
+
+#EXTINF:-1,BBC Radio 6 Music
+https://lsn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=128000
+
+#EXTINF:-1,BBC World Service
+https://lsn.lv/bbcradio.m3u8?station=bbc_world_service&bitrate=128000
+
+#EXTINF:-1,Capital UK
+https://media-ssl.musicradio.com/CapitalUK
+
+#EXTINF:-1,Heart UK
+https://media-ssl.musicradio.com/Heart
+
+#EXTINF:-1,Heart London
+https://media-ssl.musicradio.com/HeartLondon
+
+#EXTINF:-1,Heart 80s
+https://media-ssl.musicradio.com/Heart80sMP3
+
+#EXTINF:-1,Heart 90s
+https://media-ssl.musicradio.com/Heart90sMP3
+
+#EXTINF:-1,Heart Dance
+https://media-ssl.musicradio.com/HeartDanceMP3
+
+#EXTINF:-1,Capital Dance
+https://media-ssl.musicradio.com/CapitalDance
+
+#EXTINF:-1,Capital XTRA
+https://media-ssl.musicradio.com/CapitalXTRANational
+
+#EXTINF:-1,LBC
+http://media-ice.musicradio.com/LBCUK
+
+#EXTINF:-1,Classic FM
+https://media-ssl.musicradio.com/ClassicFM
+
+#EXTINF:-1,Smooth Radio
+https://media-ssl.musicradio.com/Smooth
+
+#EXTINF:-1,Radio X
+https://media-ssl.musicradio.com/RadioX
+
+#EXTINF:-1,KISS UK
+https://live-bauerkiss.sharp-stream.com/kissnational.aac
+
+#EXTINF:-1,KISSTORY
+https://stream-al.planetradio.co.uk/kisstory.aac
+
+#EXTINF:-1,Magic Radio
+https://stream-al.planetradio.co.uk/magic.aac
+
+#EXTINF:-1,Magic Chilled
+https://stream-al.planetradio.co.uk/magicchilled.aac
+
+#EXTINF:-1,Absolute Radio
+http://icy-e-bab-02-gos.sharp-stream.com/absoluteradio.mp3
+
+#EXTINF:-1,Absolute 80s
+http://ais.absoluteradio.co.uk/absolute80s.mp3
+
+#EXTINF:-1,Absolute 90s
+http://ais.absoluteradio.co.uk/absolute90s.mp3
+
+#EXTINF:-1,Times Radio
+https://timesradio.wireless.radio/stream
+
+#EXTINF:-1,VVirgin Radio UK
+https://radio.virginradio.co.uk/vruk
+
+#EXTINF:-1,Jazz FM
+https://edge-audio-02-cr.sharp-stream.com/jazzfm.mp3
+
+#EXTINF:-1,talkSPORT
+https://radio.talksport.com/stream
