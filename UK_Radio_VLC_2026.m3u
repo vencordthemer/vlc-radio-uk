@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC Radio 3
+http://as-hls-ww-live.akamaized.net/pool_234/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_550/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC Radio 5 Live
+http://as-hls-ww-live.akamaized.net/pool_890/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_818/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+#EXTINF:-1,Capital UK
+https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1,Heart UK
+https://media-ssl.musicradio.com/Heart
+#EXTINF:-1,Heart 80s
+https://media-ssl.musicradio.com/Heart80sMP3
+#EXTINF:-1,Heart 90s
+https://media-ssl.musicradio.com/Heart90sMP3
+#EXTINF:-1,Capital Dance
+https://media-ssl.musicradio.com/CapitalDance
+#EXTINF:-1,LBC UK
+http://media-ice.musicradio.com/LBCUK
+#EXTINF:-1,Classic FM
+http://ice-the.musicradio.com/ClassicFMMP3
+#EXTINF:-1,Radio X
+http://media-the.musicradio.com/RadioXUK
+#EXTINF:-1,Smooth Chill
+https://media-ssl.musicradio.com/ChillMP3
+#EXTINF:-1,Gold
+https://media-ssl.musicradio.com/GoldMP3
+#EXTINF:-1,Virgin Radio UK
+https://radio.virginradio.co.uk/stream
+#EXTINF:-1,Times Radio
+https://timesradio.wireless.radio/stream
+#EXTINF:-1,talkSPORT
+https://radio.talksport.com/stream
+#EXTINF:-1,Radio Caroline
+http://78.129.202.200:8040/;
+#EXTINF:-1,Jazz FM
+https://edge-audio-02-cr.sharp-stream.com/jazzfm.mp3
+#EXTINF:-1,NTS Radio 1
+http://listen2.ntslive.co.uk/listen.pls
+#EXTINF:-1,KISS UK
+https://stream-al.hellorayo.co.uk/kiss100.aac?direct=true
+#EXTINF:-1,KISSTORY
+https://stream-al.planetradio.co.uk/kisstory.aac
+#EXTINF:-1,KISS DANCE
+https://stream-kiss.hellorayo.co.uk/kissdance.mp3
+#EXTINF:-1,Magic Radio
+https://stream-mz.planetradio.co.uk/magicnational.mp3
+#EXTINF:-1,Magic Chilled
+https://stream-mz.planetradio.co.uk/magicchilled.mp3
+#EXTINF:-1,Absolute Radio
+http://icy-e-bab-02-gos.sharp-stream.com/absoluteradio.mp3
+#EXTINF:-1,Absolute 80s
+http://ais.absoluteradio.co.uk/absolute80s.mp3
+#EXTINF:-1,Absolute 90s
+http://ais.absoluteradio.co.uk/absolute90s.mp3
+#EXTINF:-1,Absolute Classic Rock
+https://stream-ar.hellorayo.co.uk/absoluteclassicrock.aac?direct=true
